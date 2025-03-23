@@ -24,3 +24,15 @@ p{
     align-items: center;
     margin-top: 50px;
 }
+#bookingSystem{
+    width: 400px;
+    height:60px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-width: 0.5px;
+    border-radius: 30px;
+}
