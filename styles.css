@@ -58,3 +58,23 @@ p{
     transform: translate(930px,20px);
     border-radius: 10px;
 }
+#headadvertText{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    padding-top:20px;
+    margin-bottom: 4px;
+}
+#advertText{
+    font-size: 9px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top:7px;
+}
+#viewanchor{
+    margin:0;
+    padding:0;
+    display: inline;
+    justify-content: center;
+    border:0;
+}
