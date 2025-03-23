@@ -36,3 +36,25 @@ p{
     border-width: 0.5px;
     border-radius: 30px;
 }
+.advert{
+    width:260px;
+    height:120px;
+    background-color: white;
+    position: relative;
+    transform: translate(900px,90px);
+    border-radius: 20px;
+
+}
+#innerphoto{
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-left: 6px;
+    overflow: hidden;
+    position:absolute;
+    object-fit: cover;
+}
+
+#imageIcon{
+    transform: translate(930px,20px);
+    border-radius: 10px;
+}
